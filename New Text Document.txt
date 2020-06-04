@@ -1,3 +1,5 @@
 test12
 
 update file after staging file
+
+cmd update
